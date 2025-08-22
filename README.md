@@ -1,5 +1,8 @@
 # Actividad2
 
+--Cuando esté en Visual Studio use Run Java y no Run Code, arriba a la derecha hay una flecha para correr el codigo pero a lado
+de esa flecha hay otra mas pequeña en la que le puede dar a Run Java, de esa manera el codigo se muestra
+
 # Actividad2
 MATRIZ DE PRUEBAS
 |ID|Entrada|Resultado|ResultadoEsp|Aprobó|
